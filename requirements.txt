@@ -1,0 +1,4 @@
+pyspark==4.0.1
+delta-spark==4.0.0
+faker==40.54.0
+pytest>=8
