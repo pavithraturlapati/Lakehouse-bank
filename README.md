@@ -39,7 +39,6 @@ flowchart LR
 - [Design decisions](#design-decisions)
 - [Known limitations](#known-limitations)
 - [Roadmap](#roadmap)
-- [Acknowledgements](#acknowledgements)
 
 ---
 
