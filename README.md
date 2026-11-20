@@ -448,7 +448,7 @@ testable without real tables.
 
 ## Roadmap
 
-- [x] **Phase 1:** CDC generator, bronze streaming + quarantine, silver SCD2, quality checks, unit tests
+- [ ] **Phase 1:** CDC generator, bronze streaming + quarantine, silver SCD2, quality checks, unit tests
 - [ ] **Phase 2:** `transactions` table, gold aggregates, dbt + DuckDB analytics models
 - [ ] **Phase 3:** pipeline metrics table, LLM-written incident summaries, RAG over the docs
 - [ ] **Phase 4:** Kafka (Redpanda) transport, GitHub Actions CI, Airflow/Dagster orchestration
